@@ -1,3 +1,3 @@
-This repository contains the following directories:
+This repository contains the following directory:
 
 1) 0x03-git
